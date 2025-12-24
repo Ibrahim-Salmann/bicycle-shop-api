@@ -27,6 +27,13 @@
       "description": "A safe and fun bike for children aged 4-6. Includes training wheels and a bell.",
       "price": 149.99,
       "imageUrl": "https://www.maddgear.com.au/cdn/shop/products/zycom_my_1st_zbike_blue_main.jpg?v=1667785548"
+    },
+    {
+      "id": "5",
+      "name": "Best Bike Helmet 2017",
+      "description": "An affordable helmate with a screen to sheld of wind resistant; flexiable adjustment of the head piece.",
+      "price": 49.99,
+      "imageUrl": "http://ecx.images-amazon.com/images/I/81AItcWWj-L._SL1500_.jpg"
     }
   ]
 }
